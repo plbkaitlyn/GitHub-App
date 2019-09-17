@@ -1,3 +1,2 @@
 next
 new line
-new line
