@@ -1,2 +1,2 @@
 another test
-a new example to test
+a new example to check and test
