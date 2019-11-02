@@ -13,5 +13,4 @@ let's start a new challenge
 a new line
 a new line
 a new line is added
-a new line
 add a line
