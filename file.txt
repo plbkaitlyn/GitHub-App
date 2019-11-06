@@ -20,3 +20,4 @@ add a new line to test
 new line
 add a new line to test
 new line
+add a new line to check
