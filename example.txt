@@ -22,4 +22,3 @@ add a new line to test
 a new example to check and test
 a new line is added
 what a wonderful day for stopword model it is
-a new line is added
