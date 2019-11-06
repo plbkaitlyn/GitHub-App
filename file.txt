@@ -23,6 +23,5 @@ let's start a new challenge
 add a new line to test
 add a new line to check
 an example to see if stopwords are actually working
-an example to see if stopwords are actually working
 add a new line to check
 let's start a new challenge
