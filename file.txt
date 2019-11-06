@@ -30,3 +30,4 @@ add a new line to test
 add a line
 add a line to check
 add a line
+add a line to check
