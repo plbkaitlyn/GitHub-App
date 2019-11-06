@@ -20,3 +20,4 @@ a new line is added
 a new example to check and test
 a new line is added
 a new line is added
+a new example to check and test
