@@ -22,5 +22,4 @@ a new line is added
 a new line is added
 a new example to check and test
 add a new line to test
-add a new line to test
 let's start a new challenge
